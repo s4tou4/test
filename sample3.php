@@ -1,3 +1,6 @@
 <?php
-print("sample3�ł��I");
+print("sample3です！");
 ?>
+
+文字コードの変換
+
